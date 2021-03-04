@@ -4,4 +4,4 @@ for i in range(2,num+1):
     if num%i==0:
     	break
 else:
-    print('是质数...')
+    print(num,'是质数...')
